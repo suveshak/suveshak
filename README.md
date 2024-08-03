@@ -1,4 +1,4 @@
- 👋 HELLO THERE, I am SUVESHA KHAN 
+ 👋 NAMASTE, I am SUVESHA KHAN 
 
  🌻I am currently learning:
     🎗️Data Science 
