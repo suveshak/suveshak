@@ -1,7 +1,6 @@
 👋 Namaste, I am SUVESHA
 
- 🌻 I’m currently learning:
-    - 
+ 
 
  
 📫 How to reach me: suveshaaa@gmail.com
