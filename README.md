@@ -20,10 +20,6 @@
   - Artificial Intelligence
   - Data Science & Visualization
 
-- 💬 Ask me about:
-  - Building beautiful UIs
-  - Python-based visualizations
-  - AI-powered applications
 
 - 🎯 Goals:
   - Craft seamless, responsive interfaces
