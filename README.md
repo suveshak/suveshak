@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌐 Front-End Developer | 🤖 AI Explorer | 📊 Data Science Enthusiast <br>
+  🌐 Front-End Developer | 🤖 AI-ML Explorer | 📊 Data Science Enthusiast <br>
   📍 Pune, Maharashtra, India <br>
   📫 Reach me at: <a href="mailto:suveshaaa@gmail.com">suveshaaa@gmail.com</a> <br>
   💼 <a href="https://www.linkedin.com/in/suvesha-khan-874175290">Connect on LinkedIn</a>
