@@ -16,7 +16,7 @@
 ### 🧠 About Me
 
 - 🌱 Currently diving deep into:
-  - Front-End Development (React, Tailwind CSS)
+  - Front-End Development (HTML, JS ,React, Tailwind CSS)
   - Artificial Intelligence
   - Data Science & Visualization
 
