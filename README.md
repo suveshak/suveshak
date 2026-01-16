@@ -45,14 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suveshak&show_icons=true&theme=radical" alt="Suvesha's GitHub Stats" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 - 💌 Email: [suveshaaa@gmail.com](mailto:suveshaaa@gmail.com)
